@@ -13,8 +13,8 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
-| 1 | | | @ | |
-| 2 | | | @ | |
+| 1 | 13020240015|Muhammad Ardiansyah Ihsan | @ | |
+| 2 | 13020240006| | @ | |
 | 3 | | | @ | |
 | 4 | | | @ | |
 

@@ -4,7 +4,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 
 | Keterangan | Isi |
 |---|---|
-| Kelompok | Bagian [I / II / III] – Kelompok [XX] |
+| Kelompok | Bagian [ II ] – Kelompok [03] |
 | Subsistem | [salin dari tabel 2.2 pada dokumen tugas] |
 | Layanan inti | [salin dari tabel 2.2 pada dokumen tugas] |
 | Perwakilan kelompok | [nama, stambuk] |

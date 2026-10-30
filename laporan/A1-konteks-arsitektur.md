@@ -5,10 +5,8 @@
 <!-- Hapus komentar ini setelah bagian selesai. -->
 | Perspektif / Dimensi | Kondisi Subsistem pada Konteks | Arsitektur	Pengaruhnya pada Arsitektur |
 
-| 1. Teknis            | Menggunakan arsitektur berlapis
-                       
-                       (Layered Architecture) yang memis
-                       
+| 1. Teknis            | Menggunakan arsitektur berlapi |
+                       | (Layered Architecture) yang me |
                        ahkan Presentation Layer (Fronten
                        d), Application Layer (Backend), 
                        dan Data Access Layer (ORM). Diduk

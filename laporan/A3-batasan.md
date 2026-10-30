@@ -1,6 +1,5 @@
 # A3. Batasan Sistem
 
-
 <!-- Penanggung jawab: [Fahmi Rumakat] -->
 
 | Kategori | Batasan / Kondisi Subsistem | Dampak / Pengaruhnya pada Arsitektur |

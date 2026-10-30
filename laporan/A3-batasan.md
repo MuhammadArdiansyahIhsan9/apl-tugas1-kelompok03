@@ -1,8 +1,8 @@
 # A3. Batasan Sistem
 
-<!-- Penanggung jawab: [nama] -->
-<!-- Yang diminta: Minimal 2 batasan untuk tiap kategori (teknologi, bisnis, operasional), disertai dampaknya. -->
-<!-- Hapus komentar ini setelah bagian selesai. -->
+
+<!-- Penanggung jawab: [Fahmi Rumakat] -->
+
 | Kategori | Batasan / Kondisi Subsistem | Dampak / Pengaruhnya pada Arsitektur |
 | :--- | :--- | :--- |
 | **Teknologi** | 1. Menggunakan arsitektur berlapis (*Layered Architecture*) yang memisahkan *Presentation Layer* (Frontend), *Application Layer* (Backend), dan *Data Access Layer* (ORM).<br><br>2. Didukung oleh manajemen *high concurrency* (Load Balancer), server basis data relasional (PostgreSQL/MySQL), serta keamanan jaringan (HTTPS/SSL & Firewall. | 1. Menuntut desain arsitektur yang modular, mendukung *scalability* (seperti penggunaan *Docker container*).<br><br>2. Memastikan komunikasi antar komponen dan transmisi data nilai berjalan aman dan stabil. |

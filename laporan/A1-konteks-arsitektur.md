@@ -1,8 +1,7 @@
 # A1. Analisis Empat Konteks Arsitektur
 
-<!-- Penanggung jawab: [nama] -->
-<!-- Yang diminta: Tabel 4 baris (teknis, siklus hidup proyek, bisnis, profesional): kondisi subsistem pada tiap konteks dan pengaruhnya pada arsitektur. -->
-<!-- Hapus komentar ini setelah bagian selesai. -->
+<!-- Penanggung jawab: [Fahmi Rumakat] -->
+
 | Arsitektural / Dimensi | Kondisi Subdomain pada Konteks Arsitektur | Pengaruhnya pada Arsitektur |
 | :--- | :--- | :--- |
 | **1. Teknis** | Menggunakan arsitektur berlapis (*Layered Architecture*) yang memisahkan *Presentation Layer* (Frontend), *Application Layer* (Backend), dan *Data Access Layer* (ORM). Didukung oleh manajemen *high concurrency* (Load Balancer), server basis data relasional (PostgreSQL/MySQL), serta keamanan jaringan (HTTPS/SSL & Firewall). | Memperinci desain arsitektur yang modular, mendukung *scalability* (seperti penggunaan *Docker container*), serta memastikan komunikasi antar komponen dan transmisi data nilai berjalan aman dan stabil. |

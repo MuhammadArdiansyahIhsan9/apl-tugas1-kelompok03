@@ -5,7 +5,16 @@
 <!-- Hapus komentar ini setelah bagian selesai. -->
 | Perspektif / Dimensi | Kondisi Subsistem pada Konteks | Arsitektur	Pengaruhnya pada Arsitektur |
 
-| 1. Teknis | Menggunakan arsitektur berlapis (Layered Architecture) yang memisahkan Presentation Layer (Frontend), Application Layer (Backend), dan Data Access Layer (ORM). Didukung oleh manajemen high concurrency (Load Balancer), server basis data relasional (PostgreSQL/MySQL), serta keamanan jaringan (HTTPS/SSL & Firewall). |
+| 1. Teknis            | Menggunakan arsitektur berlapis
+                       (Layered Architecture) yang memis
+                       ahkan Presentation Layer (Fronten
+                       d), Application Layer (Backend), 
+                       dan Data Access Layer (ORM). Diduk
+                       ung oleh manajemen high concurrenc
+                       y (Load Balancer), server basis da
+                       ta relasional (PostgreSQL/MySQL),
+                       serta keamanan jaringan (HTTPS/SSL 
+                       & Firewall). |
 
 | 2. Siklus Hidup Proyek (Project Lifecycle) |
 

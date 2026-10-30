@@ -6,6 +6,9 @@
 | Perspektif / Dimensi | Kondisi Subsistem pada Konteks | Arsitektur	Pengaruhnya pada Arsitektur |
 
 | 1. Teknis |
+
 | 2. Siklus Hidup Proyek (Project Lifecycle) |
+
 | 3. Bisnis |
+
 | 4. Profesional |

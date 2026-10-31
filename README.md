@@ -14,7 +14,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
 | 1 |13020240006 |Muh. Bintang Yudha Pratama Dagga |@yudha.gacor@gmail.com | |
-| 2 |13020240015 |Muhammad Ardiansyah Ihsan |@13020240015@student.umi.ac.id | |
+| 2 |13020240015 |Muhammad Ardiansyah Ihsan |@13020240015@student.umi.ac.id | A2,A4 |
 | 3 |13020240065 |Fahmi Rumakat |@ rumakatfahmy009@gmail.com | A1, A3 |
 | 4 | | | @ | |
 
@@ -28,7 +28,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A1 | laporan/A1-konteks-arsitektur.md | Fahmi Rumakat| Belum |
 | A2 | laporan/A2-stakeholder.md | Muhammad Ardiansyah Ihsan | Sudah |
 | A3 | laporan/A3-batasan.md | Fahmi Rumakat | Belum |
-| A4 | laporan/A4-asr.md | | Belum |
+| A4 | laporan/A4-asr.md | Muhammad Ardiansyah Ihsan | Belum |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr | | Belum |
 | B1 | laporan/B1-karakteristik.md | | Belum |
 | B2 | laporan/B2-atribut-terukur.md | | Belum |

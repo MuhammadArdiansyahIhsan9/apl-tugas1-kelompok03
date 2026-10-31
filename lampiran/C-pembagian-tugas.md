@@ -7,7 +7,7 @@ Cara mengambil tautan: buka tab **Commits**, klik commit yang dimaksud, salin al
 | No | Stambuk | Nama | Kode yang dikerjakan | Uraian pekerjaan individu | Bukti kontribusi (tautan) | Keterangan (Selesai / Tunda / Gagal) |
 |---|---|---|---|---|---|---|
 | Ct. | 13020240000 | (Contoh) Ani | A2, A3 | Menyusun register 6 stakeholder dan peta power/interest; menulis batasan teknologi, bisnis, dan operasional | Riwayat berkas laporan/A2-stakeholder.md (tautan); commit "[A3] tambah batasan" (tautan) | Selesai |
-| 1 | | | | | | |
+| 1 | | | | |https://github.com/MuhammadArdiansyahIhsan9/TugasKel1_II_Kelompok03/commit/28bdccfae9f7dff3a7e4d462475d461315a247bc | |
 | 2 | | | | | | |
 | 3 | | | | | | |
 | 4 | | | | | | |

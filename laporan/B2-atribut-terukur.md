@@ -16,8 +16,7 @@ Atribut kualitas adalah ukuran suatu karakteristik yang menunjukkan kemampuan si
 | Interoperability | Kemampuan sistem berkomunikasi dengan sistem lain. | Keberhasilan pertukaran data melalui API. | 100% pengujian integrasi berhasil |
 | Portability | Kemampuan sistem digunakan pada berbagai platform. | Keberhasilan akses melalui browser dan perangkat berbeda. | 100% platform uji dapat mengakses sistem |
 
-## 3. Dua Kategori Perilaku dan Empat Kategori Produk
-
+## 3. Dua Kategori Perilaku dan Karakteristik Kualitas Produk
 ### 3.1 Dua Kategori Perilaku
 
 | Kategori | Definisi | Contoh Layanan Nilai di SIAKAD |
@@ -25,7 +24,7 @@ Atribut kualitas adalah ukuran suatu karakteristik yang menunjukkan kemampuan si
 | Perilaku yang Dibatasi | Tingkat perilaku sistem yang memiliki batas atau standar tertentu. | Waktu membuka KHS maksimal 2 detik dan ketersediaan sistem minimal 99%. |
 | Perilaku yang Diminta | Tingkat perilaku yang diharapkan oleh pengguna. | Nilai tersimpan secara akurat, pengesahan berjalan lancar, dan notifikasi sanggahan dapat diterima mahasiswa. |
 
-### 3.2 Empat Kategori Produk
+### 3.2 Karakteristik Kualitas Produk
 
 | Kategori | Definisi | Contoh Layanan Nilai di SIAKAD |
 |---|---|---|

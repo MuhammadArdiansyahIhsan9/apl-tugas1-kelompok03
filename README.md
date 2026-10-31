@@ -14,7 +14,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
 | 1 |13020240006 |Muh. Bintang Yudha Pratama Dagga |@yudha.gacor@gmail.com | |
-| 2 |13020240015 |Muhammad Ardiansyah Ihsan |@13020240015@student.umi.ac.id | A2,A4 |
+| 2 |13020240015 |Muhammad Ardiansyah Ihsan |@13020240015@student.umi.ac.id | A2, A4 |
 | 3 |13020240065 |Fahmi Rumakat |@ rumakatfahmy009@gmail.com | A1, A3 |
 | 4 | | | @ | |
 

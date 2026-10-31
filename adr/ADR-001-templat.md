@@ -6,18 +6,12 @@
 
 ## Context
  
-Nilai melewati input oleh dosen, pengesahan, tampil di KHS dan transkrip, lalu dapat disanggah mahasiswa (ASR-01). Perubahan nilai setelah disahkan harus dapat dibuktikan (ASR-02). Cara SIAKAD mencatat perubahan nilai saat ini belum diketahui [DATA BELUM TERSEDIA]. Platform yang sudah ada (Gamelan ERP) tidak diasumsikan dapat diubah pada bagian inti (K-01).
- 
+Nilai melewati input oleh dosen, pengesahan, tampil di KHS dan transkrip, lalu dapat disanggah mahasiswa (ASR-01). Perubahan nilai setelah disahkan harus dapat dibuktikan (ASR-02). 
+
 ## Decision
  
 Kami akan menetapkan satu modul Pengelola Nilai sebagai satu-satunya jalur yang boleh mengubah nilai. Modul ini menyimpan status nilai (input, disahkan, dikoreksi) dan menulis catatan riwayat yang hanya dapat ditambah (append-only) setiap kali nilai berubah. KHS dan transkrip hanya membaca nilai berstatus disahkan.
  
-## Alternatives
- 
-- (a) Semua halaman mengubah nilai langsung: sederhana, tetapi aturan status tersebar dan jejak perubahan tidak dijamin.
-- (b) Hanya log teks di server: murah, tetapi sulit dicari dan tidak terikat pada data nilai.
-- (c) Usulan ini: satu modul dengan status dan riwayat.
-
 ## Consequences
  
 - Untung: satu tempat untuk aturan status dan audit; sanggahan dan koreksi dapat dibuktikan; KHS dan transkrip konsisten.

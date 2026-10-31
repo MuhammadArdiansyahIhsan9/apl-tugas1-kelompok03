@@ -14,7 +14,7 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | No | Stambuk | Nama | Akun GitHub | Kode yang dikerjakan |
 |---|---|---|---|---|
 | 1 |13020240006 |Muh. Bintang Yudha Pratama Dagga |@yudha.gacor@gmail.com |BAB 1,A5,B1,B2 |
-| 2 |13020240015 |Muhammad Ardiansyah Ihsan |@13020240015@student.umi.ac.id | A2, A4 |
+| 2 |13020240015 |Muhammad Ardiansyah Ihsan |@13020240015@student.umi.ac.id | A2, A4, B3, B4, B5, Dan Bab4-Penutup |
 | 3 |13020240065 |Fahmi Rumakat |@ rumakatfahmy009@gmail.com | A1, A3 |
 | 4 | | | @ | |
 
@@ -32,10 +32,10 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr |Muh. Bintang Yudha Pratama Dagga |  Sudah |
 | B1 | laporan/B1-karakteristik.md |Muh. Bintang Yudha Pratama Dagga |  Sudah |
 | B2 | laporan/B2-atribut-terukur.md |Muh. Bintang Yudha Pratama Dagga |  Sudah |
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ | | Belum |
-| B4 | laporan/B4-iso-25010.md | | Belum |
-| B5 | laporan/B5-trade-off.md | | Belum |
-| BAB IV | laporan/BAB4-penutup.md | | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | Muhammad Ardiansyah Ihsan | Sudah |
+| B4 | laporan/B4-iso-25010.md | Muhammad Ardiansyah Ihsan | Sudah |
+| B5 | laporan/B5-trade-off.md | Muhammad Ardiansyah Ihsan | Sudah |
+| BAB IV | laporan/BAB4-penutup.md |Muhammad Ardiansyah Ihsan | Sudah |
 | Pustaka | laporan/daftar-pustaka.md | | Belum |
 
 ## Laporan PDF terakhir

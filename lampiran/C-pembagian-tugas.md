@@ -6,7 +6,7 @@ Cara mengambil tautan: buka tab **Commits**, klik commit yang dimaksud, salin al
 
 | No | Stambuk | Nama | Kode yang dikerjakan | Uraian pekerjaan individu | Bukti kontribusi (tautan) | Keterangan (Selesai / Tunda / Gagal) |
 |---|---|---|---|---|---|---|
-| Ct. | 13020240000 | (Contoh) Ani | A2, A3 | Menyusun register 6 stakeholder dan peta power/interest; menulis batasan teknologi, bisnis, dan operasional | Riwayat berkas laporan/A2-stakeholder.md (tautan); https://github.com/MuhammadArdiansyahIhsan9/TugasKel1_II_Kelompok03/commit/28bdccfae9f7dff3a7e4d462475d461315a247bc | Selesai |
+| 1 | 13020240006 |Muh. Bintang Yudha Pratama Dagga | A5,B1,B2| keputusan arsitektur dan ADR, karakteristik arsitektur, serta atribut kualitas terukur. | Riwayat berkas laporan/A2-stakeholder.md (tautan);  | Selesai |
 | 1 | | | | | | |
 | 2 | | | | | | |
 | 3 | | | | | | |

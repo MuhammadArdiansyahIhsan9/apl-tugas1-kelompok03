@@ -4,14 +4,22 @@
 
 ## 4.1 Kesimpulan
 
--Ada tiga ASR inti (ASR-01 sampai ASR-03). ASR-04 masih hipotesis.
--Dua usulan keputusan (ADR-001 dan ADR-002) bisa ditelusuri ke ASR.
--Rancangan dituangkan dalam tiga struktur, dipetakan ke ISO/IEC 25010:2011, dan dua trade-off dianalisis.
--Seluruh rancangan adalah usulan, bukan gambaran SIAKAD UMI saat ini.
+1. Terdapat tiga ASR inti, yaitu ASR-01 sampai ASR-03, sedangkan ASR-04 masih berupa hipotesis.
 
+2. Dua usulan keputusan arsitektur, yaitu ADR-001 dan ADR-002, dapat ditelusuri ke ASR.
 
-## 4.2 Saran
+3. Rancangan dituangkan dalam tiga struktur, dipetakan ke ISO/IEC 25010:2011, dan dilengkapi dengan analisis dua trade-off.
 
--Kalau ada keluhan lambat, tambahkan ADR-003.
--Uji rancangan di lingkungan uji, dan setujui dulu angka targetnya.
--Terapkan bertahap, mulai dari Otorisasi dan Pengelola Nilai.
+4. Seluruh rancangan merupakan usulan arsitektur, bukan gambaran kondisi SIAKAD UMI saat ini.
+
+---
+
+## 4.2 Rekomendasi
+
+1. Melakukan survei terhadap responden R1–R5 untuk menguji ASR-04. Apabila ditemukan keluhan terkait kinerja sistem yang lambat, perlu ditambahkan ADR-003.
+
+2. Melakukan pengujian rancangan di lingkungan uji serta menyepakati angka target pengujian sebelum implementasi.
+
+3. Menerapkan rancangan secara bertahap, dimulai dari modul Otorisasi dan Pengelola Nilai.
+
+4. Melakukan peninjauan terhadap Architecture Decision Record (ADR) pada setiap akhir semester.

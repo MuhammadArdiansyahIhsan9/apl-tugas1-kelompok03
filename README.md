@@ -28,7 +28,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A1 | laporan/A1-konteks-arsitektur.md | Fahmi Rumakat| Belum |
 | A2 | laporan/A2-stakeholder.md | Muhammad Ardiansyah Ihsan | Sudah |
 | A3 | laporan/A3-batasan.md | Fahmi Rumakat | Belum |
-| A4 | laporan/A4-asr.md | Muhammad Ardiansyah Ihsan | Belum |
+| A4 | laporan/A4-asr.md | Muhammad Ardiansyah Ihsan | Sudah |
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr | | Belum |
 | B1 | laporan/B1-karakteristik.md | | Belum |
 | B2 | laporan/B2-atribut-terukur.md | | Belum |

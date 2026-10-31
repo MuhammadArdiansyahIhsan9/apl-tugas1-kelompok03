@@ -7,7 +7,7 @@ Atribut kualitas adalah ukuran suatu karakteristik yang menunjukkan kemampuan si
 
 | Individu Atribut | Definisi | Indikator Ukur | Target |
 |---|---|---|---|
-| Time Response | Kecepatan sistem dalam merespons permintaan pengguna. | Waktu membuka halaman nilai, KHS, dan transkrip. | < 2 detik |
+| Time Response | Kecepatan sistem dalam merespons permintaan pengguna. | Waktu membuka halaman nilai, KHS, dan transkrip. | < 3 detik |
 | Turnaround Time | Waktu yang dibutuhkan sampai suatu proses selesai. | Waktu dari input nilai hingga tersimpan. | < 5 detik |
 | Throughput | Jumlah transaksi yang dapat diproses dalam satu waktu. | Jumlah transaksi penyimpanan nilai per detik. | > 10 transaksi/detik |
 | Availability | Persentase waktu sistem tersedia untuk digunakan. | Uptime dibandingkan total waktu operasional. | >= 99% |

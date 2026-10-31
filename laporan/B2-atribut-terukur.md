@@ -46,5 +46,5 @@ Atribut kualitas adalah ukuran suatu karakteristik yang menunjukkan kemampuan si
 | Security | 100% pengujian hak akses berhasil sesuai peran. | Ketika dosen, admin, dan mahasiswa mencoba mengakses fitur masing-masing. | Menguji login dan memastikan pengguna tidak dapat mengakses fitur di luar kewenangannya. |
 | Reliability | 100% data nilai yang berhasil disimpan tetap konsisten. | Ketika proses input, pengesahan, koreksi, dan penampilan nilai dilakukan. | Membandingkan data sebelum dan sesudah proses serta memeriksa riwayat perubahan nilai. |
 
-Catatan: Angka target di atas merupakan usulan target pengujian, bukan hasil pengujian nyata.
+
 
